@@ -89,6 +89,9 @@ Zoom and shear transformations
 Metric	Value
 
 Validation Accuracy	~95%
+
 Precision	94.2%
+
 Recall	95.1%
+
 F1-Score	94.6%
