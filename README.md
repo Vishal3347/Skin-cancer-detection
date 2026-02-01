@@ -85,7 +85,9 @@ Brightness/Contrast adjustment
 Zoom and shear transformations
 
 📊 Results
+
 Metric	Value
+
 Validation Accuracy	~95%
 Precision	94.2%
 Recall	95.1%
